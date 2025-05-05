@@ -1,1 +1,5 @@
-# Camping-Buddy
+# Camping-Buddy![Screenshot (42)](https://github.com/user-attachments/assets/f2bf37c2-2626-4261-b182-38a3e4180a88)
+![Screenshot (43)](https://github.com/user-attachments/assets/65c6fc32-8fe6-4e9c-b814-14b506326a63)
+![Screenshot (44)](https://github.com/user-attachments/assets/e4ced17c-03af-40cc-a289-99343d9c9d31)
+![Screenshot (45)](https://github.com/user-attachments/assets/56e9286c-b001-402f-9bf2-657db10d44f1)
+![Screenshot (46)](https://github.com/user-attachments/assets/0043b0a7-3347-4a2d-af92-a5e5a4491e4e)
